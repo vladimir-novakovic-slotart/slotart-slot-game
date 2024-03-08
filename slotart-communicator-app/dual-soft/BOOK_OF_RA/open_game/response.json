@@ -1,0 +1,2984 @@
+{
+  "id": 1,
+  "date": 1708694828129,
+  "status": {
+    "code": "OK",
+    "message": "",
+    "externalCode": null,
+    "externalMessagfe": null
+  },
+  "output": {
+    "mode": "DEMO",
+    "gameRoundId": 18203,
+    "feature": "FREE",
+    "gameStepNo": 7509,
+    "gameCode": "BASE",
+    "actions": [],
+    "currentBalance": {
+      "balance": 1000000
+    }
+  },
+  "operation": null,
+  "slot": {
+    "symbols": [
+      {
+        "index": 7,
+        "symbol": "A",
+        "label": "A"
+      },
+      {
+        "index": 9,
+        "symbol": "Q",
+        "label": "Q"
+      },
+      {
+        "index": 6,
+        "symbol": "B",
+        "label": "BUG"
+      },
+      {
+        "index": 5,
+        "symbol": "S",
+        "label": "STATUA"
+      },
+      {
+        "index": 11,
+        "symbol": "T",
+        "label": "10"
+      },
+      {
+        "index": 4,
+        "symbol": "F",
+        "label": "SFINGA"
+      },
+      {
+        "index": 1,
+        "symbol": "W",
+        "label": "BOOK"
+      },
+      {
+        "index": 3,
+        "symbol": "H",
+        "label": "JOHN"
+      },
+      {
+        "index": 10,
+        "symbol": "J",
+        "label": "J"
+      },
+      {
+        "index": 8,
+        "symbol": "K",
+        "label": "K"
+      }
+    ],
+    "paylines": [
+      {
+        "id": 1,
+        "positions": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "id": 2,
+        "positions": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "id": 3,
+        "positions": [
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "positions": [
+          1,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "id": 5,
+        "positions": [
+          3,
+          2,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": 6,
+        "positions": [
+          2,
+          3,
+          3,
+          3,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "positions": [
+          2,
+          1,
+          1,
+          1,
+          2
+        ]
+      },
+      {
+        "id": 8,
+        "positions": [
+          3,
+          3,
+          2,
+          1,
+          1
+        ]
+      },
+      {
+        "id": 9,
+        "positions": [
+          1,
+          1,
+          2,
+          3,
+          3
+        ]
+      }
+    ],
+    "games": [
+      {
+        "code": "STATUA",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKASFAWQBWQABQSAQKAQSAQSJQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKASQATFAKSAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJKQTBAQSJTAQTJQTFQTSQTJQSHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSQTBKFQSFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFSAFTSBKJQSJQTSQWATWJKSJQKSBQAKHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "A",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQSAQKAQSAQSJAKTQAHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKATQATFAKBAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJKQTBHTBJTAQTJQTAQTHATJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSQTAKFQSFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFKAFTJAKJQSHQTSQWATWJKSJAKSBQAKHQTAQSAKSFTHFJBAJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "Q",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQSAQKAQSAQSJQKTQKHFKQASJQKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKATQATFAKBAQBJQBTJAKQBWJBAQKFTKQBKSJKTQJKTQJSQTKATKQTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJKQTBATBJTAQTJQTFQTHQTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKQJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSQTBKFQSFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHQKAFTQBKJQSJQTSQWATWJKSJQKSBQAKHQTAQSAKSFTHFJBQJBKWBQHKQJTQBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "BUG",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQSAQKBQSAQSBQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QJAKFJKATQATFAKBAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "QTHBQJKBATBJTAQTJBTFQTHBTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FABQFSQTBKFQSFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "FKJHFKAFTJBKJQSBQTSQWATWJKSBQKSBQAKHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "J",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABJSAQKJQSAQSJQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKATJATFAJBAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJKQTBATBJTAQTJQTFQTHQTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSJTBKFQSFASKQWKASTQSTAKJATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFJAFTJBKJQSJQTSQWATWJKSJQKSBQJKHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASJAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "K",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQSAQKAQSKQSJQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQKBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKATQATFAKBAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJHQTBATBKTAQTJQTFQKHQTJQTHATBWTAJTWJTSATQATFQTAJKQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSQTBKFQSFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFKAFTJBKJQSHQTSQWATWJKSJQKSBQAKHQTAQSAKSFTHKJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "TEN",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQTAQKTQSATSJQKTQKHFTJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QAJKFJKATQATFAKBTQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "HAQJKQTBATBJTAQTJQTFQTHQTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FBAQFSQTBKFQJFASKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJTFKAFTJBKJTSJQTSQWATWJKSJQTSBQAKHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "SFINGA",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJQAWQBWQAFQSAQFAQSAFSJQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QJAKFJKATQATQAKBAQBJQBFJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTJA"
+          },
+          {
+            "id": 2,
+            "symbols": "QHTAQJKBATBJTAFTJQTFQTHQTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABQFTQAT"
+          },
+          {
+            "id": 3,
+            "symbols": "BFAQFSQTBKFQSFASKQWKASTFSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQBKJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFKAQTJBKJQSJQTSQWATWJKFJQKSBQAFHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "FREE_JOHN",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKAJFAWQBWQABQSAQKAQSAQSJQKTQKHFKJASJTKATQATKATKAHKAQWKQSKAHQKAQKSQFTQKSQTHKJSKJQKFAQJBAJBAWSAKTJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QJAKFJKATQATHAKBAQBJQBTJAKQBWJBAJKFTKQBKSJKTQJKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTFJTBJKQTKHQKTFKWTJA"
+          },
+          {
+            "id": 2,
+            "symbols": "HATQJKQBATHJTAQTJQTFQTHQTJQTHATBWTAJTWJTSATQATFQTAJTQFSJATSAJKAJFHATQWATJATJQBJFSJAFJBKJFSJABFTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "FABQFSQTBKFQSFAHKQWKASTQSTAKFATSWJTQJKATQATQAKSAKTHQJBQFTWQJHAFTKJWKQAFQJTKQTBJKHSAWTASQBKQSJQKBJ"
+          },
+          {
+            "id": 4,
+            "symbols": "KFJHFKAFTJHKJQSJQTSQWATWJKSJQKSBQAKHQTAQSAKSFTHFJBQJBKWBQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": true,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      },
+      {
+        "code": "BASE",
+        "reels": [
+          {
+            "id": 0,
+            "symbols": "SKBJFAWQBWFQABQTAQKTQSBATFJQKTQKHBFTJASJTKABTQATFKATKAHBKAQKSQKAHQKAQBKSQFTQKSQTHKJSKJQKFAQJBAJBWSAKTFJSKJQT"
+          },
+          {
+            "id": 1,
+            "symbols": "QJAKSFJKATQATKABTQBJQTJAKQBWSJBAJKFTKAQBKSJKTQJAKTQJSQTKATKJTAJKTJBTJQTJKBHJTBJKTWJKTJBTJKQTKAHQKTFKWTAJ"
+          },
+          {
+            "id": 2,
+            "symbols": "QTHAQJKBATBJTAQTJQTQTQATJQTHATBWTAJTBJTAFTQATFQTAJTQFSJATSAJKAJHATQWTJATJQBJFSJAFJBKJFSJBTQATQ"
+          },
+          {
+            "id": 3,
+            "symbols": "BFAQFBQTKQJFASKQWKASTKQATKFATKSJATQJKATHBQATQAKHAKTQJBQFTWQKJHATKJQKAFQJTKQTBJKAHTASQBKQJBQKJ"
+          },
+          {
+            "id": 4,
+            "symbols": "FKJTFKAFTJBKJTSQJTQATFWJKSJQTSBQAKHQTAQSAKFTSFJBQJBKWQHKQJTKBATQAKWAJKATKAQKASKAQBTSATSAJQATBFT"
+          }
+        ],
+        "paytable": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "A",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "Q",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "B",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 30,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "S",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 750,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "T",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 400,
+            "freeGames": null
+          },
+          {
+            "symbol": "F",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 2000,
+            "freeGames": null
+          },
+          {
+            "symbol": "W",
+            "count": 3,
+            "direction": "any",
+            "multiplier": 2,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 4,
+            "direction": "any",
+            "multiplier": 20,
+            "freeGames": 10
+          },
+          {
+            "symbol": "W",
+            "count": 5,
+            "direction": "any",
+            "multiplier": 200,
+            "freeGames": 10
+          },
+          {
+            "symbol": "H",
+            "count": 2,
+            "direction": "left",
+            "multiplier": 10,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 1000,
+            "freeGames": null
+          },
+          {
+            "symbol": "H",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 5000,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 25,
+            "freeGames": null
+          },
+          {
+            "symbol": "J",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 100,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 3,
+            "direction": "left",
+            "multiplier": 5,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 4,
+            "direction": "left",
+            "multiplier": 40,
+            "freeGames": null
+          },
+          {
+            "symbol": "K",
+            "count": 5,
+            "direction": "left",
+            "multiplier": 150,
+            "freeGames": null
+          }
+        ],
+        "bonus": false,
+        "windowRows": 3,
+        "substitutionMultiplier": null
+      }
+    ],
+    "lineSets": [
+      {
+        "code": 1,
+        "lines": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 2,
+        "lines": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 3,
+        "lines": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 4,
+        "lines": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 5,
+        "lines": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 6,
+        "lines": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 7,
+        "lines": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": 8,
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "code": 9,
+        "lines": [
+          9
+        ]
+      }
+    ],
+    "window": {
+      "reels": [
+        "FAW",
+        "TJK",
+        "JTB",
+        "KQW",
+        "WQH"
+      ]
+    }
+  },
+  "settings": {
+    "currencyCode": "RSD",
+    "currencyPrefix": null,
+    "currencySufix": "RSD",
+    "currencyPrecision": 1,
+    "groupingSeparator": ".",
+    "decimalSeparator": ",",
+    "denom": 100,
+    "allowedBetModes": [
+      "BET_TOTAL",
+      "BET_PER_LINE"
+    ],
+    "betMode": "BET_TOTAL",
+    "betLevels": [
+      900,
+      1800,
+      7200,
+      14400
+    ],
+    "defaultBet": 900,
+    "lineMode": "ALL_LINES",
+    "allowedLineModes": [
+      "ALL_LINES",
+      "LINE_SETS"
+    ],
+    "gambleAllowed": true,
+    "gambleEnabled": true,
+    "maxGambleStake": 250000,
+    "maxGableSteps": 5,
+    "gameId": 1,
+    "sessionProperties": null,
+    "playerGameProperties": null
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": 2,
+  "date": 1708694035180,
+  "status": {
+    "code": "OK",
+    "message": "",
+    "externalCode": null,
+    "externalMessagfe": null
+  },
+  "output": {
+    "mode": "DEMO",
+    "gameRoundId": 18272,
+    "feature": "BASE",
+    "gameStepNo": 1,
+    "gameCode": "BASE",
+    "actions": [
+      {
+        "type": "bet",
+        "betPerLine": 20,
+        "lines": 100,
+        "denom": 100,
+        "totalBet": 2000
+      },
+      {
+        "type": "rotate",
+        "mode": 0,
+        "multi": 0,
+        "reels": [
+          "KAJ4",
+          "QA3J",
+          "322J",
+          "2221",
+          "J222"
+        ],
+        "overlay": [
+          "----",
+          "----",
+          "----",
+          "----",
+          "----"
+        ]
+      },
+      {
+        "type": "win",
+        "win": 500,
+        "multiplier": 25,
+        "symbol": "J",
+        "positions": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "line": 34
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 17
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 58
+      },
+      {
+        "type": "win",
+        "win": 500,
+        "multiplier": 25,
+        "symbol": "J",
+        "positions": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "line": 85
+      },
+      {
+        "type": "win",
+        "win": 500,
+        "multiplier": 25,
+        "symbol": "J",
+        "positions": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "line": 94
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 9
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 23
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 51
+      },
+      {
+        "type": "win",
+        "win": 500,
+        "multiplier": 25,
+        "symbol": "J",
+        "positions": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "line": 96
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 50
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 39
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 43
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 35
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 3
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 56
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 54
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 48
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 46
+      },
+      {
+        "type": "win",
+        "win": 200,
+        "multiplier": 10,
+        "symbol": "A",
+        "positions": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "line": 29
+      },
+      {
+        "type": "totalWin",
+        "win": 5000,
+        "multiplier": 250
+      }
+    ],
+    "currentBalance": {
+      "balance": 1003000
+    }
+  },
+  "operation": null,
+  "slot": null,
+  "settings": null
+}

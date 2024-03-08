@@ -1,0 +1,44 @@
+{
+  "id": 2,
+  "date": 1708694899976,
+  "status": {
+    "code": "OK",
+    "message": "",
+    "externalCode": null,
+    "externalMessagfe": null
+  },
+  "output": {
+    "mode": "DEMO",
+    "gameRoundId": 18203,
+    "feature": "FREE",
+    "gameStepNo": 2,
+    "gameCode": "BASE",
+    "actions": [
+      {
+        "type": "rotate",
+        "mode": 0,
+        "multi": 0,
+        "reels": [
+          "QFT",
+          "TJB",
+          "TQW",
+          "JBQ",
+          "JTF"
+        ],
+        "overlay": [
+          "---",
+          "---",
+          "---",
+          "---",
+          "---"
+        ]
+      }
+    ],
+    "currentBalance": {
+      "balance": 1000000
+    }
+  },
+  "operation": null,
+  "slot": null,
+  "settings": null
+}

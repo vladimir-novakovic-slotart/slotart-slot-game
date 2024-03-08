@@ -1,0 +1,2 @@
+open game:
+http://rgs-dev.dualsoft.io/rgs-server/rgs/10

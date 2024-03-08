@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "date": 1708692351786,
+  "status": {
+    "code": "OK",
+    "message": "",
+    "externalCode": null,
+    "externalMessagfe": null
+  },
+  "output": {
+    "mode": "DEMO",
+    "gameRoundId": 18203,
+    "feature": "FREE",
+    "gameStepNo": 1,
+    "gameCode": "BASE",
+    "actions": [
+      {
+        "type": "bet",
+        "betPerLine": 100,
+        "lines": 9,
+        "denom": 100,
+        "totalBet": 900
+      },
+      {
+        "type": "rotate",
+        "mode": 0,
+        "multi": 0,
+        "reels": [
+          "FAW",
+          "TJK",
+          "JTB",
+          "KQW",
+          "WQH"
+        ],
+        "overlay": [
+          "---",
+          "---",
+          "---",
+          "---",
+          "---"
+        ]
+      },
+      {
+        "type": "win",
+        "win": 1800,
+        "multiplier": 2,
+        "symbol": "W",
+        "positions": null,
+        "line": null
+      },
+      {
+        "type": "win",
+        "win": 500,
+        "multiplier": 5,
+        "symbol": "J",
+        "positions": [
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        "line": 5
+      },
+      {
+        "type": "totalWin",
+        "win": 2300,
+        "multiplier": 7
+      },
+      {
+        "type": "winFeature",
+        "freeSpins": 10
+      }
+    ],
+    "currentBalance": {
+      "balance": 1002100
+    }
+  },
+  "operation": null,
+  "slot": null,
+  "settings": null
+}

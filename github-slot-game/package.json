@@ -1,0 +1,30 @@
+{
+  "name": "slot-game",
+  "version": "1.4.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && webpack --mode=production",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && ts-node server.ts",
+    "serve": "SET NODE_OPTIONS=--openssl-legacy-provider && webpack serve --open --mode=development",
+    "serve:lan": "SET NODE_OPTIONS=--openssl-legacy-provider && webpack serve --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.16",
+    "pixi.js": "^6.0.4",
+    "ts-node": "^10.1.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^9.0.1",
+    "html-webpack-plugin": "^5.3.2",
+    "ts-loader": "^9.2.4",
+    "typescript": "^5.3.3",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  }
+}

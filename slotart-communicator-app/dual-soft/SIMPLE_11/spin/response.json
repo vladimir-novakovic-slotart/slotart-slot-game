@@ -1,0 +1,112 @@
+{
+  "id": 3,
+  "date": 1708694598218,
+  "status": {
+    "code": "OK",
+    "message": "",
+    "externalCode": null,
+    "externalMessagfe": null
+  },
+  "output": {
+    "mode": "DEMO",
+    "gameRoundId": 18276,
+    "feature": "BASE",
+    "gameStepNo": 1,
+    "gameCode": "BASE",
+    "actions": [
+      {
+        "type": "bet",
+        "betPerLine": 5,
+        "lines": 20,
+        "denom": 100,
+        "totalBet": 100
+      },
+      {
+        "type": "rotate",
+        "mode": 0,
+        "multi": 0,
+        "reels": [
+          "K25",
+          "W46",
+          "AJ6",
+          "3JW",
+          "56J"
+        ],
+        "overlay": [
+          "---",
+          "---",
+          "---",
+          "---",
+          "---"
+        ]
+      },
+      {
+        "type": "win",
+        "win": 20,
+        "multiplier": 4,
+        "symbol": "K",
+        "positions": [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        "line": 6
+      },
+      {
+        "type": "win",
+        "win": 20,
+        "multiplier": 4,
+        "symbol": "K",
+        "positions": [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        "line": 2
+      },
+      {
+        "type": "win",
+        "win": 20,
+        "multiplier": 4,
+        "symbol": "K",
+        "positions": [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        "line": 16
+      },
+      {
+        "type": "win",
+        "win": 20,
+        "multiplier": 4,
+        "symbol": "K",
+        "positions": [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        "line": 20
+      },
+      {
+        "type": "totalWin",
+        "win": 80,
+        "multiplier": 16
+      }
+    ],
+    "currentBalance": {
+      "balance": 999960
+    }
+  },
+  "operation": null,
+  "slot": null,
+  "settings": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "slotart-game-librarry",
+  "version": "1.0.0",
+  "description": "Test game for our framework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^7.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

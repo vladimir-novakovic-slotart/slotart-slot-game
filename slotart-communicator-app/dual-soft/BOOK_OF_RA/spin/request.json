@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "timestamp": 1708694898646,
+  "init": false,
+  "input": {
+    "event": {
+      "type": "spin",
+      "betMode": "BET_TOTAL",
+      "totalBet": 1800
+    },
+    "currentWallet": {
+      "balance": 1000000
+    }
+  }
+}
