@@ -11,7 +11,8 @@ class App extends React.Component {
     render() {
         return (
             <div className="App">
-                    <div id="theGame"><GameControlPanel>
+                    <div id="theGame">
+                        <GameControlPanel>
                     </GameControlPanel></div>
             </div>
         );

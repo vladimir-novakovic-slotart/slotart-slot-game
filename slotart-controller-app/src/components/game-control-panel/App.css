@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: transparent;
 }
 
 .bottom-control-bar {
@@ -37,7 +37,7 @@
   justify-content: space-around;
   background-color: #000000;
   padding: 10px 0;
-  height: 100px;
+  height: 100px !important;
   display: flex;
   justify-content: space-around;
 }
@@ -61,43 +61,10 @@
   padding: 5px;
 }
 
-.control-button-spin {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-  padding: 5px;
-  padding-bottom: 50px;
-}
-
-.info img {
-  width: 70px !important;
-  height: 70px !important;
-}
-
-.spin img {
-  width: 100px !important;
-  height: 100px !important;
-  border: 1px solid white;
-  border-radius: 50px;
-}
-
-.control-button img {
-  width: 30px;
-  height: 30px;
-  vertical-align: middle;
-}
-
-.spin-button {
-  position: relative;
-  top: -30px;
-}
 .text {
   color: white;
   font-size: x-large;
   font-weight: bold;
-}
-.sound img {
-  padding-left: 5px;
 }
 
 .control-label {
@@ -119,11 +86,14 @@
     flex-direction: row;
     justify-content: center;
   }
-
-  .spin-button {
-    margin-top: 0;
-    margin-left: 20px;
+  .control-label {
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    font-variant: all-petite-caps;
+    padding-left: 10px;
   }
+
 }
 
 @keyframes App-logo-spin {
