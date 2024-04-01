@@ -1,7 +1,9 @@
 import React from 'react';
+// @ts-ignore
 import theGame from "the-game";
 import logo from './logo.svg';
 import './App.css';
+import GameControlPanel from "./components/game-control-panel/App";
 
 
 class App extends React.Component<any, any> {
@@ -14,7 +16,7 @@ class App extends React.Component<any, any> {
         <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo"/>
-            <div id="theGame"></div>
+
             <p>
               Edit <code>src/App.tsx</code> and save to reload.
             </p>

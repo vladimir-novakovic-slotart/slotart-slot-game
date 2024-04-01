@@ -1,22 +1,23 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./App.css";
-import { createDefaultGame } from 'slotart-game-librarry';
-import { GameControlPanel } from 'slotart-controller-app';
+import { createDefaultGame } from "slotart-game-librarry";
+import { GameControlPanel } from "slotart-controller-app";
+import { useDispatch } from 'react-redux';
 
-class App extends React.Component {
-    componentDidMount() {
+const App: React.FC = () => {
+    const dispatch = useDispatch(); //
+
+    useEffect(() => {
         createDefaultGame("theGame");
-    }
+    }, []);
 
-    render() {
-        return (
-            <div className="App">
-                    <div id="theGame">
-                        <GameControlPanel>
-                    </GameControlPanel></div>
+    return (
+        <div className="App">
+            <div id="theGame">
+                <GameControlPanel dispatch={dispatch}/>
             </div>
-        );
-    }
+        </div>
+    );
 }
 
 export default App;
